@@ -4,7 +4,7 @@ Public Class ReporteEmpleados
     Public Sub New()
     End Sub
 
-    Public Sub Generar_Reporte_Empleados(Empleados As List(Of empleados), UbicacionGuardarArchivo As String)
+    Public Sub Generar_Reporte_Empleados(Empleados As List(Of empleados), UbicacionGuardarArchivo As String, nombre As String)
         Dim GestorExcel = New Gestor()
         Dim formulario4 = New Form4()
 
@@ -26,7 +26,7 @@ Public Class ReporteEmpleados
             HojaExcel.Cells(Fila, 2).Font.Bold = True
             HojaExcel.Cells(Fila, 2) = "Empresa"
             HojaExcel.Cells(Fila, 3).Font.Bold = True
-            HojaExcel.Cells(Fila, 3) = formulario4.Label11.Text.ToString
+            HojaExcel.Cells(Fila, 3) = nombre
 
 
             Dim SalarioEmpleado = 0

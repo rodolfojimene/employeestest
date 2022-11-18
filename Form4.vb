@@ -88,7 +88,8 @@ Public Class Form4
         If SaveFileDialog1.ShowDialog = Windows.Forms.DialogResult.OK Then
             Dim ruta = SaveFileDialog1.FileName
             Dim emplea = ObtenerDatosEmpleados()
-            ReporteEmpleados.Generar_Reporte_Empleados(emplea, ruta)
+            Dim nombre = Form3.labelnombre.Text
+            ReporteEmpleados.Generar_Reporte_Empleados(emplea, ruta, nombre)
         End If
 
 

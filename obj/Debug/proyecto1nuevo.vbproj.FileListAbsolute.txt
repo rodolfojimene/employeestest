@@ -15,3 +15,7 @@ C:\Users\rodol\OneDrive\Documentos\u sistemas\progamacion 2\proyecto1nuevo\obj\D
 C:\Users\rodol\OneDrive\Documentos\u sistemas\progamacion 2\proyecto1nuevo\obj\Debug\proyecto1nuevo.Form3.resources
 C:\Users\rodol\OneDrive\Documentos\u sistemas\progamacion 2\proyecto1nuevo\obj\Debug\proyecto1nuevo.Form4.resources
 C:\Users\rodol\OneDrive\Documentos\u sistemas\progamacion 2\proyecto1nuevo\obj\Debug\proyecto1nuevo.vbproj.ResolveComReference.cache
+C:\Users\baval\Documents\proyecto1nuevo\obj\Debug\proyecto1nuevo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\baval\Documents\proyecto1nuevo\obj\Debug\proyecto1nuevo.vbproj.AssemblyReference.cache
+C:\Users\baval\Documents\proyecto1nuevo\obj\Debug\proyecto1nuevo.Resources.resources
+C:\Users\baval\Documents\proyecto1nuevo\obj\Debug\proyecto1nuevo.vbproj.GenerateResource.cache
